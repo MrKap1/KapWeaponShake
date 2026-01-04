@@ -6,7 +6,7 @@ Config.ShakeName = "SMALL_EXPLOSION_SHAKE"
 Config.DefaultIntensity = 0.05
 
 Config.CustomWeights = {
-    [`WEAPON_PISTOL`] = 0.1,
+    [`WEAPON_PISTOL`] = 0.2, -- Adjusted from 0.9 for consistency
     [`WEAPON_COMBATPISTOL`] = 0.12,
     [`WEAPON_APPISTOL`] = 0.15, 
     [`WEAPON_CARBINERIFLE`] = 0.2,
